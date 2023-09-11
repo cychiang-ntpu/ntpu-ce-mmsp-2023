@@ -55,6 +55,41 @@
     
 ![](https://i.imgur.com/HoaWsh7.png)
 
+## 日常生活中的多媒體系統
+* 手機/pad
+  * 影音串流 youtube
+  * 數位相機
+  * photoshop
+  * 社群媒體
+  * conference cal （con-call) 軟體
+* 筆記型電腦/桌電
+類似於手機/pad
+* 電視
+  * 數位電視
+  * 機上盒（apple tv, 中華電信 mod）
+  * 遊戲機
+* 車機
+  * 影音播放
+  * 導航
+* 音響系統
+
+
+## 多媒體的相關產業
+### 軟體
+### 硬體
+瑞昱半導體
+聯發科
+晨星半導體
+
+
+## 多媒體相關的學術活動
+* 國內
+* 國外
+https://attend.ieee.org/mmsp-2023/home/call-for-papers/
+https://2023.ieeeicassp.org/
+https://www.acmmm2023.org/cfp/
+https://www.2023.ieeeicme.org/
+
 
 
 
