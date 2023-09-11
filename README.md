@@ -75,6 +75,9 @@ Final Project 有要求同學和任課老師約好 demo 時間，在指定的時
 * diagrams.net
 * slack
 * Doxygen
+* 國家教育研究院 樂詞網 https://terms.naer.edu.tw/
+* stackoverflow.com
+* https://openai.com/chatgpt
 
 
 ## 授課老師資訊
