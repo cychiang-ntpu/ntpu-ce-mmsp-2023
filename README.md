@@ -34,6 +34,10 @@ https://join.slack.com/t/ntpu-ce-mmsp-2023/shared_invite/zt-22wvaaq9x-LgQ4Hf3wZh
 5. Digital Image Representation
 6. Digital Image Processing
 
+## 參考書目
+* Science of Digital Media (International Edition)，Jennifer Burg。[ISBN:ISBN13:9780135062227 ISBN10:0-13-506222-5] Available: https://burg.cs.wfu.edu/the-science-of-digital-media/
+* To be added
+
 ## 評分方式
 英文「Talk is cheap, show me the code」
 
