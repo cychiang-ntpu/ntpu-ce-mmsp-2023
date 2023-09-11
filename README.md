@@ -26,6 +26,14 @@ https://join.slack.com/t/ntpu-ce-mmsp-2023/shared_invite/zt-22wvaaq9x-LgQ4Hf3wZh
 3. 數位文字、圖像、影像及聲音之表示及處理
 4. 以程式語言實作基礎多媒體訊號處理系統
 
+## 課程大綱 (subject to change)
+1. Introduction
+2. Digital Data (Signal) Representation
+3. Digital Audio Representation
+4. Fundamentals of Digital (Discrete) Signal Processing
+5. Digital Image Representation
+6. Digital Image Processing
+
 ## 評分方式
 英文「Talk is cheap, show me the code」
 
@@ -52,6 +60,22 @@ Final Project 有要求同學和任課老師約好 demo 時間，在指定的時
 
 #### 遲交處理原則
 ***不可以遲交，遲交沒有分數。***
+
+## 工具
+* Visual Studio Code (IDE)
+* Sublime
+* Notepad++
+* colab
+* Jupyter notebook
+* Jupyter Lab
+* HackMD with Markdown Language
+* Overleaf with LaTex
+* GitHub
+* GitLab
+* diagrams.net
+* slack
+* Doxygen
+
 
 ## 授課老師資訊
 
@@ -98,9 +122,3 @@ Final Project 有要求同學和任課老師約好 demo 時間，在指定的時
 ### 聯絡分機
 電話：(02) 86741111 轉 68858
 
-## 課程大綱
-課程大綱及對應的演算法或系統實作如下表所示
-
-|週次| 日期 |課堂教學綱要|演算法或系統實作|
-|:-:|:----:| ----------|--------------|
-| 1 | 20210927 | Course Outline & Digital Data Representation and Communication | Project-1: Generating Sine Waves |
