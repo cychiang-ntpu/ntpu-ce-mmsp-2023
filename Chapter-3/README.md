@@ -83,8 +83,7 @@
 * 鋼琴：鋼琴的「擊弦機制」
 https://tw.yamaha.com/zh/products/contents/musical_instrument_guide/piano/mechanism/mechanism003.html
 
-* 銅鈸和小鼓:
-麵包超人主題曲片頭：https://www.youtube.com/watch?v=QZShA_a-5r8
+* 銅鈸和小鼓：https://youtu.be/QDReydxW9dY?si=YSxGhZp7o28jYhr2
 * 銅鈸 slow motion 1000x：
 https://www.youtube.com/watch?v=kpoanOlb3-w
 * 小鼓 slow motion：https://www.youtube.com/watch?v=tM8WyhB6zYo
