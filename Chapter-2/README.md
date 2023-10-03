@@ -235,10 +235,10 @@ Example of quantization noise. (a) Unquantized samples of the signal x[n] = 0.99
 </p>
 
 
-## 2.5 Mini Project 1 - Generating Sine Waves
+## 2.5 Mini Project 3 - Generating Waves
 撰寫一支 C 語言程式 sinegen_xxxxxxxxx.c，其中 xxxxxxxxx 代表你的學號，在 compile 和 link 後的執行檔，可以使用以下方法產生弦波的 wav file 和計算 SQNR：
 
-`sinegen_xxxxxxxxx fs m f A T  1> fn.wav 2> sqnr.txt`
+`sinegen_xxxxxxxxx fs m wavetype f A T  1> fn.wav 2> sqnr.txt`
 
 參數說明如下：
 
@@ -246,9 +246,10 @@ Example of quantization noise. (a) Unquantized samples of the signal x[n] = 0.99
 | -------- | -------- | -------- | -------|
 | fs     | 取樣率    | Hz | 8000/16000/22050/44100     |
 | m      | sample size | bit | 8/16/32 |
+| wavetype | 波形種類 | 無 | 字串: sine/sawtooth/square/triangle |
 | f      | 訊號頻率  | Hz | 取決於 fs     |
 | A      | 振幅     | 相對於TRS端子最大輸入電壓 (Remark 1) | [0.0, 1.0]     |
-| T      | 產生的弦波長度 | second | possible real value |
+| T      | 產生的音訊長度 | second | possible real value |
 
 輸出：
 1. fn.wav 為 WAV 檔的檔名，格式為 [WAV](https://zh.wikipedia.org/wiki/WAV) 
